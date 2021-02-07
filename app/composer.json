@@ -1,8 +1,8 @@
 {
   "require": {
     "leocavalcante/siler": "^1.4",
-    "illuminate/database": "^5.8",
-    "illuminate/pagination": "^5.8"
+    "illuminate/database": "^8.25",
+    "illuminate/pagination": "^8.25"
   },
   "autoload": {
     "psr-4": {
